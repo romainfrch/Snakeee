@@ -1,6 +1,8 @@
 # SNAKEEE
 
 SNAKEEE est un jeu réalisé en p5.js dans le cadre de ce TP.
+Lien de la vidéo Youtube : https://youtu.be/myYh9XnybmY?si=VQ2yk2w62SgD2IKN
+Lien Itch.io : https://romfrch.itch.io/snakeee
 
 ## Jouer
 
